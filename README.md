@@ -1,3 +1,5 @@
+This is work in progress - no updates yet
+
 # Layer-wise Relevance Propagation in PyTorch
 
 Basic implementation of unsupervised Layer-wise Relevance Propagation (LRP, [Bach et al.][bach2015], 
